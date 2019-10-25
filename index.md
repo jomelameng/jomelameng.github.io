@@ -1,7 +1,7 @@
 # About Me
 ## Education
 Ph.D. Aeronautics, California Institute of Technology (2016)  
-M.S. Aeronautics, California Institute of Technology (2010)  
+M.S. Aerospace Engineering, California Institute of Technology (2010)  
 B.S. Aerospace Engineering, Arizona State University (2009)   
 
 ## Positions
