@@ -11,7 +11,7 @@ Keck Institute for Space Studies Graduate Fellow, [California Institute of Techn
  
 ## Awards
 Richard Bruce Chapman Memorial Award, California Institute of Technology (2016)  
-Keck Institute for Space Studies Graduate Student Fellowship (2009-2010)  
+Keck Institute for Space Studies Graduate Student Fellowship (2009 - 2010)  
 Moeur Award, Arizona State University (2009)  
 
 # Links
