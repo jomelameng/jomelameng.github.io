@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Jomela Meng, Ph.D.
-description: Research Engineer
+description: Research Engineer, [Robert Bosch LLC](http://www.bosch.com/research)
 plugins:
   - jekyll-relative-links
 relative_links:
