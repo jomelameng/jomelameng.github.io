@@ -31,6 +31,8 @@ Knudsen E., Doran E.M., Mittal V., **Meng J.**, Spurlock W., "Compressible Euler
 
 **Meng J.C.**, "Numerical Simulations of Droplet Aerobreakup," Ph.D. thesis, Graduate Aerospace Laboratories, California Institute of Technology (2016) [DOI](https://doi.org/10.7907/Z9KW5D09)
 
+**Meng J.C.**, "Towards Rapid Prototyping for Computational Golf Ball Design," Undergraduate Honors Thesis, Barrett the Honors College, Arizona State University (2009)
+
 # Links
 [LinkedIn](https://www.linkedin.com/in/jomelameng/)  
 [Google Scholar](https://scholar.google.com/citations?user=TrfuqIgAAAAJ&hl=en&oi=ao)
