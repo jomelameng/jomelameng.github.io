@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Jomela Meng, Ph.D.
+description: Research Engineer
 plugins:
   - jekyll-relative-links
 relative_links:
