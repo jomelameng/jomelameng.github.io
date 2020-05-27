@@ -19,7 +19,7 @@ _For a complete list of publications, please see my [Google Scholar](https://sch
 
 ## Journal Articles
 
-Bryngelson S.H., Schmidmayer K., Coralic V., **Meng, J.**, Maeda K., Colonius T., "MFC: An open-source high-order multi-component, multi-phase, and multi-scale compressible flow solver," _Submitted_ (2019)
+Bryngelson S.H., Schmidmayer K., Coralic V., **Meng, J.**, Maeda K., Colonius T., "MFC: An open-source high-order multi-component, multi-phase, and multi-scale compressible flow solver," Computer Physics Communications (2020), _In Press_. [DOI](https://doi.org/10.1016/j.cpc.2020.107396)
 
 **Meng J.C.**, Colonius T., "Numerical simulation of the aerobreakup of a water droplet," Journal of Fluid Mechanics (2018), 835, pp. 1108-1135. [DOI](https://doi.org/10.1017/jfm.2017.804)
 
