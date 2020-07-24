@@ -6,11 +6,11 @@ B.S. Aerospace Engineering, Arizona State University (2009)
 
 ## Positions
 Research Engineer, [Robert Bosch LLC](https://www.bosch.com/research/) (2016 - present)  
-Graduate Research Assistant, [California Institute of Technology](https://www.caltech.edu) (2010 - 2016)  
-Keck Institute for Space Studies Graduate Fellow, [California Institute of Technology](http://www.galcit.caltech.edu) (2009 - 2010)  
+Graduate Research Assistant, [California Institute of Technology](https://www.galcit.caltech.edu) (2010 - 2016)  
+[Keck Institute for Space Studies](https://kiss.caltech.edu) Graduate Fellow, [California Institute of Technology](http://www.galcit.caltech.edu) (2009 - 2010)  
  
 ## Awards
-Richard Bruce Chapman Memorial Award, California Institute of Technology (2016)  
+[Richard Bruce Chapman Memorial Award](http://eas.caltech.edu/chapman), California Institute of Technology (2016)  
 Keck Institute for Space Studies Graduate Student Fellowship (2009 - 2010)  
 Moeur Award, Arizona State University (2009)  
 
