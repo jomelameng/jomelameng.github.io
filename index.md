@@ -38,4 +38,4 @@ Knudsen E., Doran E.M., Mittal V., **Meng J.**, Spurlock W., "Compressible Euler
 [Google Scholar](https://scholar.google.com/citations?user=TrfuqIgAAAAJ&hl=en&oi=ao)
 
 
-© 2020 Jomela C. Meng
+© 2021 Jomela C. Meng
